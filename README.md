@@ -1,5 +1,5 @@
-### lab11
-# Цель - изучение процесса создания сеансов совместной разработки с использованием инструмента ngrok
+# lab11
+## Цель - изучение процесса создания сеансов совместной разработки с использованием инструмента ngrok
 
 ```$ sudo snap install ngrok``` - скачиваю ngrok
 ```$ ngrok config add-authtoken 2PKbzb6AEriDGu6L6K93IrXMr5V_4BfyzYiXcSMHNhGHVgDHH``` - Добавляю свой токен в ngrok.yml
